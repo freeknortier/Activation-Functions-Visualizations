@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ActivationFunctionGraphs/.idea/ActivationFunctionGraphs.iml" filepath="$PROJECT_DIR$/../ActivationFunctionGraphs/.idea/ActivationFunctionGraphs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ActivationFunctionsVisualizations.iml" filepath="$PROJECT_DIR$/.idea/ActivationFunctionsVisualizations.iml" />
+    </modules>
+  </component>
+</project>
